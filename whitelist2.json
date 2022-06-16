@@ -1,16 +1,14 @@
+
 {
   "players": {
-    "709094619161296939": "e5a2ac6834e148f214e14d63b0cb8c8aefee728e6484d9656178adda62a9e52ed5a272a1650108383db9e150e8d4beebf54e125acc8fa22249edf7888cd77e99",
     "539395263257903104": "657443c7c663b5a1748e8e7d6dbc8fd824f70f9c1c148c2bc29d4c509844d8bf91a0c7b975e9e54b94f462d108e31313010ff198a3ef05d45a4dcd66478fe03c",
     "837815287897128990": "624a5fcffc3f63535c60f376d19f7cef95a40bbcccb3b1c3aeb01dd7128e631220e7bc2085119854bdecabde2d7c8ddc5faf7c1a7c32b053321db4f925c7ad7c",
     "384718982625886208": "19567ba798c588f1a359de9746222d38ed9ce34770f8aab35cc198bc611e69968c88dc526c6136b31159ff67325b06f260562ede5f6652b219d00f7545c8d37d",
-    "548146409065545730": "b48e299fa33f533009cfc0bc56d60593398f98f2a1ec2d49e254e1b4fb7adb14ab756312774398a3d4f870908071807d0c45ea54b262fffff000e682df4727d9",
     "5": "7b286c8e4d753f089214a9d0ec3251c0a9c213572c88fe0ebe2bc3cf661f276b3f169515c2907c734381c0f9f9ca9d29b6a9f3b8f16df0cb89498337b76cdc02",
     "712521210302300161": "98e8c7cfd8460bfd95d333a607c66f0a0dbc2c03b560021634e37ad9916345ebddd16828e0d5c41133593c5beacde35ee545f8d2d749cd949911d962ba9e8e01",
     "667842315364335676": "5fbe5766100c422b82545f5f821167e2edd0ebc0dfa319338f0d6f76473adde0392e94b14c70877474bafcab5cd347daae6426822c747d69c81ec14a8c2ef36b",
     "853370987684167691": "3b21932755d61271f8994a6d01ea244dd7a064c9d65c31cb22e6e5233882c3fb4487d797365f03978577761a8514c2a27617daef8fbf6a29cb62b19f8b00cb20",
     "111291323314671616": "a91361a785c34c433f33386ef224586b7076e1e10ebb8189fdc39b7e37822eb6c79a7d810e0d2d41e000db65f8c539ffe2144e70d48e6d3df7b66350d4699c36",
-    "735432575140757605": "11d5062393e6330102e2cfcc115f44e9aae186cce3b6f10c10a11cfb057e14c5547a87946d80080cf1fa0c212d0a4cc708543c6df3007bd35b1a097e49d53eeb",
     "349173600877674507": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
     "919665092025528441": {
       "hash": "ede3676286a6a8ce887b9251c7ec61edf75c246e06ee2331ea2a061513618c6dfcbabd97abb713323c34c68ebbfbbe9f8d29bc2ae5e76302f6ac465e2afbe010",
@@ -32,19 +30,30 @@
     "26": "18be02c1ad5e180471dbcc179bdfd1ba3e54380df58b92657d0e11e8928f282b53260386c214f7a92a98d67f82c6192c8a6109d88cb24048ddc8ae0847f943e9",
     "27": "0227a52f65164d4eb3f23a81067c921055d5ae3d68d603bb4d664ca56895dca6410050584b3896ba801fcbfa240b255a48ace1d7449425c7c5ccebea0a0e8cba",
     "28": "def3bcf3ce36f664d601c8b024b26f1cc4974e88c86e749898aa5ec487188b06bbccd51651381ec4db86518b9ea2a6ae4607f06c02de17bf312ac695a569bbf8",
-    "900134277616926780": "1bc7832678be7405f8056d74d1f712c6f5585053b908064c0d6e2b45a373c71b83fa57b01b067b0c0256dc6a08540cc54c15fbd974012b00090cad1f2012f2db",
     "30": "0fffd7be2ab7def8039fff3b9c66b3ba1fbdd2b1081c2cbc7059392923f3b0a962d30fc0b5b4711297a54378953a2d3b76d181b02771d689cf7dbdccfa0a6b88",
     "31": "9266325863fd6c8b332fb3813c5941355680f6443c027de249e3bcecb6239b34cb12cbdc0a38f7177c3a7fdf76e98e4595f3b99ea6d13ddef0481774d6982266",
     "32": "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5",
     "919495387776155698": {
-      "hash": "d78428ea776821981a0527a3a7ca4cf1752291196907dc200f923c992fa4cfb4a4ff7c611bbeee4e9107a6c5d9da8280d0a2d413f09a29043d43e7d8c21133b8",
+      "hash": "f9f4a835e604b95c1cad896251fc9ff17e09ee7605207d99c0f535ba32e0d3825767e112dd61b3705227fcbb71094421fe1c24dec4037972244fc920c03c2af3",
+      "invulnerable": false
+    },
+    "735432575140757605": {
+      "hash": "11d5062393e6330102e2cfcc115f44e9aae186cce3b6f10c10a11cfb057e14c5547a87946d80080cf1fa0c212d0a4cc708543c6df3007bd35b1a097e49d53eeb",
+      "invulnerable": true
+    },
+    "709094619161296939": {
+      "hash": "e5a2ac6834e148f214e14d63b0cb8c8aefee728e6484d9656178adda62a9e52ed5a272a1650108383db9e150e8d4beebf54e125acc8fa22249edf7888cd77e99",
+      "invulnerable": true
+    },
+    "548146409065545730": {
+      "hash": "b48e299fa33f533009cfc0bc56d60593398f98f2a1ec2d49e254e1b4fb7adb14ab756312774398a3d4f870908071807d0c45ea54b262fffff000e682df4727d9",
       "invulnerable": true
     }
   },
   "owners": {
     "351875313388617729": "e3e40433729ed99c6b480185fb799223403e13a2a9b3c5219f71a5417794ef2192dca154c338400357bb016023e262f1449443316ac4dd6fa7a48efb07876dd1",
-    "883342846558609459": {
-      "hash": "d4cb8d31b155c791810a46f511fb8e87",
+    "977294634877325382": {
+      "hash": "d16372565496f8b8d4bef178e6a1f844643b7be59644e09fcbd3553ac3faad39e05254b98792cdc3dc7aceffbe5e675677f395d0ff19fb41351acd7b3605976a",
       "invulnerable": false
     }
   },
@@ -283,11 +292,45 @@
             "g": 255,
             "b": 0
           },
-          "TagText": "CUSTOM VAPE OWNER"
+          "TagText": "CUSTO VAPE OWNER"
         }
       ]
     },
     "d78428ea776821981a0527a3a7ca4cf1752291196907dc200f923c992fa4cfb4a4ff7c611bbeee4e9107a6c5d9da8280d0a2d413f09a29043d43e7d8c21133b8": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "f9f4a835e604b95c1cad896251fc9ff17e09ee7605207d99c0f535ba32e0d3825767e112dd61b3705227fcbb71094421fe1c24dec4037972244fc920c03c2af3": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "2ac6c38fd8932efaf35b4258189bbd2ee68aeba7a69e4e153b2941716fe03b61da1d45e2dc398bdad2fb6942612ffc7da9794c77efaa7c178b288bc9040fb4c9": {
       "NameColor": {
         "r": 200,
         "g": 80,
@@ -319,6 +362,51 @@
           "b": 255
         },
         "TagText": "VAPE OWNER"
+      }
+    },
+    "548146409065545730": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "CUSTO VAPE OWNER"
+      }
+    },
+    "709094619161296939": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "STUPIDITY"
+      }
+    },
+    "735432575140757605": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "FUTURE OWNER"
       }
     }
   }
